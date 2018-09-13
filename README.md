@@ -4,7 +4,7 @@ Defines a common interface that code repositories should conform.
 
 ## Status
 
-The specs are under active development. See [Drafts](drafts/) folder for documents and PR/Issues for discussion.
+The specs are under active development. See [Drafts](spec/drafts/) folder for documents and PR/Issues for discussion.
 
 ## Goals
 
@@ -19,11 +19,11 @@ The goals of the Common Repository Interface are as follows:
 
 ### Drafts
 
-Documents under active development/discussion can be found within the [Drafts](drafts/) folder.
+Documents under active development/discussion can be found within the [Drafts](spec/drafts/) folder.
 
 ### Decisions
 
-Documents that have been agreed upon can be found within the [Decisions](decisions/) folder.
+Documents that have been agreed upon can be found within the [Decisions](spec/decisions/) folder.
 
 ## Prior Art
 
