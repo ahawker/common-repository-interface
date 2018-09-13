@@ -10,8 +10,8 @@ The specs are under active development. See [Drafts](spec/drafts/) folder for do
 
 The goals of the Common Repository Interface are as follows:
 
-* Learn one, use anywhere
-* Lower developer cognative overhead when switching projects
+* Learn once, use anywhere
+* Lower developer cognitive overhead when switching projects
 * Self describing/documenting functionality
 * Repositories become "pluggable" entities with external tools/services (think CI/CD)
 
