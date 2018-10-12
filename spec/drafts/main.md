@@ -63,3 +63,8 @@ $ cri version
 ## Conforming
 
 That's it! _Technically_ that's all you need to implement to the common-repository-interface. However, the most basic case doesn't really do much of anything. We'll see in the other documents how the `cri` command can be augmented with extensions to gain much more.
+
+## Extensions
+
+Clearly you want more functionality that this, right? So do I! Take a look at the [Extensions](extensions.md)
+document next to see how we can add/remove functionality via extensions!
