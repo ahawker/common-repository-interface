@@ -28,4 +28,4 @@ Documents that have been agreed upon can be found within the [Decisions](spec/de
 ## Prior Art
 
 * [Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all)
-* [/s scripts](TODO) - TODO
+* [/s scripts](https://chadaustin.me/2017/01/s/)
