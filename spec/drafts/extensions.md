@@ -35,4 +35,4 @@ The following names are **RESERVED** and disallowed from being used:
 * `usage`
 * `version`
 
-From here, the layout/requirements will be easier to see by viewing actual examples.
+From here, the layout/requirements will be easier to see by viewing actual examples. Let's start with the [Creating Extensions](creating-extensions.md) document.
